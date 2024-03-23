@@ -1,2 +1,2 @@
 # pub
-For public use
+For customer use
